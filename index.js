@@ -7,6 +7,7 @@ const createLogger = (':method :url :status :res[content-length] - :response-tim
 
 app.use(express.json())
 app.use(morgan(createLogger))
+app.use(express.static('build'))
 
 let persons =
   [
