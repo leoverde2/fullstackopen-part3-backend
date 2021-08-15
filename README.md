@@ -1,1 +1,1 @@
-Link to online app - https://stormy-chamber-04953.herokuapp.com/api/persons
+Link to online app - https://stormy-chamber-04953.herokuapp.com
